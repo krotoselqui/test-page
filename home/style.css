@@ -24,7 +24,7 @@ body, html {
 #sidebar::-webkit-resizer {
     width: 10px;
     height: 100%;
-    background: #ccc;
+    background: #999;
     cursor: col-resize;
     position: absolute;
     right: 0;
